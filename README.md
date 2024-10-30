@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/ApathyInMyHeart/testslaba1/badge.svg?branch=master)](https://coveralls.io/github/ApathyInMyHeart/testslaba1?branch=master)
